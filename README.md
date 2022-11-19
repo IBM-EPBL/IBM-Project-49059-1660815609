@@ -3,6 +3,7 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 
 videodemo:
+https://drive.google.com/file/d/1UGFTR7PcQFhQmCN5CHbPvlRhfl87AkIY/view?usp=drivesdk
 
 live demo:
 
